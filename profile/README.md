@@ -18,7 +18,7 @@ hue carries meaning, lightness carries rank*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/icecreamtheme/.github/master/profile/palette.svg" alt="The Icecream palette — 16 flavors with hex codes" width="560">
+<img src="https://raw.githubusercontent.com/icecreamtheme/.github/master/profile/palette.svg" alt="The Icecream palette — 16 flavors" width="800">
 
 </div>
 

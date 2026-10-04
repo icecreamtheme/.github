@@ -1,52 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700">
+<svg xmlns="http://www.w3.org/2000/svg" width="1112" height="72" viewBox="0 0 1112 72">
   <!-- Icecream palette - generated from palette/palette.json -->
-  <rect width="800" height="700" rx="20" fill="#0d0d0d"/>
-  <circle cx="74" cy="120" r="46" fill="#0d0d0d" stroke="#4a443c" stroke-width="2"/>
-  <text x="74" y="202" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">chocolate</text>
-  <text x="74" y="223" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#0d0d0d</text>
-  <circle cx="291" cy="120" r="46" fill="#FF78C6"/>
-  <text x="291" y="202" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">rose</text>
-  <text x="291" y="223" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#FF78C6</text>
-  <circle cx="508" cy="120" r="46" fill="#4EEF76"/>
-  <text x="508" y="202" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">greenapple</text>
-  <text x="508" y="223" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#4EEF76</text>
-  <circle cx="725" cy="120" r="46" fill="#F6E377"/>
-  <text x="725" y="202" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">mango</text>
-  <text x="725" y="223" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#F6E377</text>
-  <circle cx="74" cy="270" r="46" fill="#05A7AA"/>
-  <text x="74" y="352" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">bluemoon</text>
-  <text x="74" y="373" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#05A7AA</text>
-  <circle cx="291" cy="270" r="46" fill="#B973E2"/>
-  <text x="291" y="352" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">lichi</text>
-  <text x="291" y="373" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#B973E2</text>
-  <circle cx="508" cy="270" r="46" fill="#F85452"/>
-  <text x="508" y="352" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">apple</text>
-  <text x="508" y="373" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#F85452</text>
-  <circle cx="725" cy="270" r="46" fill="#696969" stroke="#4a443c" stroke-width="2"/>
-  <text x="725" y="352" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">blackberry</text>
-  <text x="725" y="373" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#696969</text>
-  <circle cx="74" cy="420" r="46" fill="#F9F6D7"/>
-  <text x="74" y="502" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">vanilla</text>
-  <text x="74" y="523" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#F9F6D7</text>
-  <circle cx="291" cy="420" r="46" fill="#F00359"/>
-  <text x="291" y="502" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">strawberry</text>
-  <text x="291" y="523" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#F00359</text>
-  <circle cx="508" cy="420" r="46" fill="#4BA560"/>
-  <text x="508" y="502" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">pistachio</text>
-  <text x="508" y="523" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#4BA560</text>
-  <circle cx="725" cy="420" r="46" fill="#FDBA21"/>
-  <text x="725" y="502" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">kesar</text>
-  <text x="725" y="523" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#FDBA21</text>
-  <circle cx="74" cy="570" r="46" fill="#206BC4"/>
-  <text x="74" y="652" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">blueberry</text>
-  <text x="74" y="673" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#206BC4</text>
-  <circle cx="291" cy="570" r="46" fill="#9387C0"/>
-  <text x="291" y="652" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">currant</text>
-  <text x="291" y="673" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#9387C0</text>
-  <circle cx="508" cy="570" r="46" fill="#F07A5D"/>
-  <text x="508" y="652" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">orange</text>
-  <text x="508" y="673" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#F07A5D</text>
-  <circle cx="725" cy="570" r="46" fill="#D3C0AC"/>
-  <text x="725" y="652" text-anchor="middle" fill="#F9F6D7" font-family="ui-sans-serif, system-ui" font-size="14" font-weight="600">fig</text>
-  <text x="725" y="673" text-anchor="middle" fill="#4a443c" font-family="ui-monospace, monospace" font-size="12">#D3C0AC</text>
+  <circle cx="34" cy="36" r="22" fill="#0d0d0d" stroke="#4a443c" stroke-width="1.5"/>
+  <circle cx="102" cy="36" r="22" fill="#FF78C6"/>
+  <circle cx="170" cy="36" r="22" fill="#4EEF76"/>
+  <circle cx="238" cy="36" r="22" fill="#F6E377"/>
+  <circle cx="306" cy="36" r="22" fill="#05A7AA"/>
+  <circle cx="374" cy="36" r="22" fill="#B973E2"/>
+  <circle cx="442" cy="36" r="22" fill="#F85452"/>
+  <circle cx="510" cy="36" r="22" fill="#696969" stroke="#4a443c" stroke-width="1.5"/>
+  <circle cx="578" cy="36" r="22" fill="#F9F6D7"/>
+  <circle cx="646" cy="36" r="22" fill="#F00359"/>
+  <circle cx="714" cy="36" r="22" fill="#4BA560"/>
+  <circle cx="782" cy="36" r="22" fill="#FDBA21"/>
+  <circle cx="850" cy="36" r="22" fill="#206BC4"/>
+  <circle cx="918" cy="36" r="22" fill="#9387C0"/>
+  <circle cx="986" cy="36" r="22" fill="#F07A5D"/>
+  <circle cx="1054" cy="36" r="22" fill="#D3C0AC"/>
 </svg>
