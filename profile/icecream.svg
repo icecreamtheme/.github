@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Icecream logo -->
+  <rect width="200" height="200" rx="24" fill="#0d0d0d"/>
+  <circle cx="100" cy="78" r="38" fill="#F6E377"/>
+  <path d="M62 88 A38 38 0 0 0 138 88 Z" fill="#FF78C6"/>
+  <path d="M68 104 L100 172 L132 104 Z" fill="#FDBA21"/>
+  <path d="M84 112 L116 112 M89 130 L111 130" stroke="#0d0d0d" stroke-width="4" stroke-linecap="round"/>
+</svg>
